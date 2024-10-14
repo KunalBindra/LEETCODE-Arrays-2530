@@ -1,6 +1,4 @@
 # LEETCODE-Arrays-2530
-Let’s break down the dry run of the **`maxKelements`** function:
-
 ### Code Walkthrough:
 1. **Initialization**:
    - A `PriorityQueue` is used with a **max-heap** behavior (due to `Collections.reverseOrder()`), meaning the largest element is always at the top.
